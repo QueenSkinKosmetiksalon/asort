@@ -1,0 +1,38 @@
+[
+  {
+    "id": "creme-001",
+    "name": "Feuchtigkeitscreme",
+    "description": "Für trockene Haut.",
+    "price": 19.99,
+    "category": "Cremes",
+    "brand": "QueenSkin",
+    "image": "images/creme1.jpg"
+  },
+  {
+    "id": "creme-002",
+    "name": "Anti-Aging Creme",
+    "description": "Für reife Haut.",
+    "price": 29.99,
+    "category": "Cremes",
+    "brand": "LuxDerma",
+    "image": "images/creme2.jpg"
+  },
+  {
+    "id": "serum-001",
+    "name": "Hyaluron Serum",
+    "description": "Mit Vitamin C.",
+    "price": 24.50,
+    "category": "Seren",
+    "brand": "DermaLux",
+    "image": "images/serum1.jpg"
+  },
+  {
+    "id": "pflege-001",
+    "name": "Lippenpflege",
+    "description": "Sanfte Pflege für Lippen.",
+    "price": 9.90,
+    "category": "Pflege",
+    "brand": "NatureTouch",
+    "image": "images/lippen1.jpg"
+  }
+]
